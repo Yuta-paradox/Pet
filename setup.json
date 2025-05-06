@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://rm8826453:yxn7ANeE43CKNScl@cluster0.dx2drch.mongodb.net/?retryWrites=true&w=majority",
         "db_name": "filesharebot",
-        "fsubs": [[]],
+        "fsubs": [[-1002374599158, true, 5]],
         "db": -1002417420075,
         "auto_del": 0,
         "messages": {
