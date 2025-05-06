@@ -1,0 +1,25 @@
+[
+    {
+        "session": "TeamUniverse2_Fliesbot",
+        "token": "6788589515:AAFd6-N87tLXDa5BKSmN8HIYSygNZC0GqS4",
+        "api_id": "22418774",
+        "api_hash": "d8c8dab274f9a811814a6a96d044028e",
+        "workers": 8,
+        "db_uri": "mongodb+srv://curioustobloom:curioustb@ctb.yoxwjs3.mongodb.net/?retryWrites=true&w=majority",
+        "db_name": "TeamUniverse2_Fliesbot",
+        "fsubs": [[-1001540354702, true, 5]],
+        "db": -1002134611366,
+        "auto_del": 0,
+        "messages": {
+            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
+            "FSUB": "",
+            "ABOUT": "ABOUT MSG",
+            "REPLY": "reply_text",
+            "START_PHOTO": "",
+            "FSUB_PHOTO": ""
+        },
+        "admins": [6193451722, 6193451722],
+        "disable_btn": true,
+        "protect": false
+    }
+]
