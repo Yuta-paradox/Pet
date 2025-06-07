@@ -27,4 +27,4 @@ RUN pip install --no-cache-dir --upgrade pip && \
 COPY . .
 
 # Run the bot
-CMD ["python", main.py"]
+CMD ["python", "main.py"]
