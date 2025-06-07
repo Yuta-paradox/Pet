@@ -7,18 +7,23 @@
         "workers": 8,
         "db_uri": "mongodb+srv://rm8826453:yxn7ANeE43CKNScl@cluster0.dx2drch.mongodb.net/?retryWrites=true&w=majority",
         "db_name": "filesharebot",
-        "fsubs": [[-1002374599158, true, 5]],
+        "fsubs": [
+            [-1002374599158, true, 5],
+            [-1002556883511, true, 5],
+            [-1001909230994, true, 6],
+            [-1002405507673, true, 6]
+        ],
         "db": -1002417420075,
-        "auto_del": 0,
+        "auto_del": 600,
         "messages": {
-            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
-            "FSUB": "",
-            "ABOUT": "ABOUT MSG",
-            "REPLY": "reply_text",
+            "START": "ʜɪ ɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ.ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....\n\nPowered By - @Paradox_Emperor",
+            "FSUB": "ʜᴇʟʟᴏ ᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ʙᴏᴛʜ ᴏꜰ ᴏᴜʀ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟꜱ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴛʜᴇɴ ʀᴇʟᴏᴀᴅ",
+            "ABOUT": "┏━━━━━━━❪❂━━━━━━━━\n◈My God: @Yuta_Paradox\n┗━━━━━━━❪❂❫━━━━━━━━",
+            "REPLY": "Work under @Paradox_bots",
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [6193451722, 6193451722],
+        "admins": [6827835777, 5925363190, 5379491904, 6802736263],
         "disable_btn": true,
         "protect": false
     }
