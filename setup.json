@@ -1,32 +1,25 @@
 [
     {
-        "session": "Pet",
-        "token": "7515308247:AAEn3zh6NRYJb_HM9kUR8DjU6LByFIogefs",
+        "session": "NSS28",
+        "token": "2003638907:AAENe4kD0znnkZmyvt36YOpxone8dol23e0",
         "api_id": "22418774",
         "api_hash": "d8c8dab274f9a811814a6a96d044028e",
         "workers": 8,
-        "db_uri": "mongodb+srv://rm8826453:yxn7ANeE43CKNScl@cluster0.dx2drch.mongodb.net/?retryWrites=true&w=majority",
-        "db_name": "filesharebot",
-        "fsubs": [
-            [-1002886570333, true, 5],
-            [-1002684149368, true, 5],
-            [-1001909230994, true, 6],
-            [-1002405507673, true, 6]
-        ],
-        "db": -1002417420075,
-        "auto_del": 600,
+        "db_uri": "mongodb+srv://NSS28:NSS28@nss28.lwldl1u.mongodb.net/?retryWrites=true&w=majority&appName=NSS28",
+        "db_name": "NSS28",
+        "fsubs": [[-1001540354702, true, 5]],
+        "db": -1001863988451,
+        "auto_del": 0,
         "messages": {
-            "START": "ʜɪ ɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ.ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....\n\nPowered By - @Paradox_Emperor",
-            "FSUB": "ʜᴇʟʟᴏ ᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ʙᴏᴛʜ ᴏꜰ ᴏᴜʀ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟꜱ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴛʜᴇɴ ʀᴇʟᴏᴀᴅ",
-            "ABOUT": "┏━━━━━━━❪❂━━━━━━━━\n◈My God: @Yuta_Paradox\n┗━━━━━━━❪❂❫━━━━━━━━",
-            "REPLY": "Work under @Paradox_bots",
+            "START": "<blockquote dfedfe",
+            "FSUB": "",
+            "ABOUT": "ABOUT MSG",
+            "REPLY": "reply_text",
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [6827835777, 5925363190, 5379491904, 6802736263],
+        "admins": [6941373457, 7146053008],
         "disable_btn": true,
         "protect": false
     }
 ]
-
-
