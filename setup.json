@@ -10,15 +10,16 @@
         "fsubs": [[-1001540354702, true, 5]],
         "db": -1001863988451,
         "auto_del": 0,
+                "auto_del": 600,
         "messages": {
-            "START": "<blockquote dfedfe",
-            "FSUB": "",
-            "ABOUT": "ABOUT MSG",
-            "REPLY": "reply_text",
+            "START": "ʜɪ ɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ.ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....\n\nPowered By - @Paradox_Emperor",
+            "FSUB": "ʜᴇʟʟᴏ ᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ʙᴏᴛʜ ᴏꜰ ᴏᴜʀ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟꜱ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴛʜᴇɴ ʀᴇʟᴏᴀᴅ",
+            "ABOUT": "┏━━━━━━━❪❂━━━━━━━━\n◈My God: @Yuta_Paradox\n┗━━━━━━━❪❂❫━━━━━━━━",
+            "REPLY": "Work under @Paradox_bots",
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [6941373457, 7146053008],
+        "admins": [6827835777, 5925363190, 5379491904, 6802736263],
         "disable_btn": true,
         "protect": false
     }
