@@ -8,12 +8,12 @@
         "db_uri": "mongodb+srv://rm8826453:yxn7ANeE43CKNScl@cluster0.dx2drch.mongodb.net/?retryWrites=true&w=majority",
         "db_name": "filesharebot",
         "fsubs": [
-            [-1002374599158, true, 5],
-            [-1002556883511, true, 5],
+            [-1002886570333, true, 5],
+            [-1002684149368, true, 5],
             [-1001909230994, true, 6],
             [-1002405507673, true, 6]
         ],
-        "db": -1002357307795,
+        "db": -1002417420075,
         "auto_del": 600,
         "messages": {
             "START": "ʜɪ ɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ.ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....\n\nPowered By - @Paradox_Emperor",
@@ -28,4 +28,5 @@
         "protect": false
     }
 ]
+
 
